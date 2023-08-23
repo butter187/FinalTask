@@ -26,3 +26,4 @@ string[] DellSymbols (string[]array)
     newArray = newArray.Where(x => x != null).ToArray();
   return newArray;
 }
+

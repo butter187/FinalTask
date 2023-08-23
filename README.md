@@ -11,3 +11,4 @@
 ![*Блок схема метода*](https://sun9-10.userapi.com/impg/72ee89ym2363bIDu0k_WjuCmo542l5E7D859Nw/kHrmpE_9oj8.jpg?size=833x574&quality=96&sign=5e595a61011b818c8f5ec8c929a092ea&type=album)
 
 3. Выводим результат метода на экран.
+
